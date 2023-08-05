@@ -1,0 +1,45 @@
+D:\MarceloFreschi\DS\A01\Aula01Variaveis\bin\Debug\net7.0\Aula01Variaveis.exe
+D:\MarceloFreschi\DS\A01\Aula01Variaveis\bin\Debug\net7.0\Aula01Variaveis.deps.json
+D:\MarceloFreschi\DS\A01\Aula01Variaveis\bin\Debug\net7.0\Aula01Variaveis.runtimeconfig.json
+D:\MarceloFreschi\DS\A01\Aula01Variaveis\bin\Debug\net7.0\Aula01Variaveis.dll
+D:\MarceloFreschi\DS\A01\Aula01Variaveis\bin\Debug\net7.0\Aula01Variaveis.pdb
+D:\MarceloFreschi\DS\A01\Aula01Variaveis\obj\Debug\net7.0\Aula01Variaveis.csproj.AssemblyReference.cache
+D:\MarceloFreschi\DS\A01\Aula01Variaveis\obj\Debug\net7.0\Aula01Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\MarceloFreschi\DS\A01\Aula01Variaveis\obj\Debug\net7.0\Aula01Variaveis.AssemblyInfoInputs.cache
+D:\MarceloFreschi\DS\A01\Aula01Variaveis\obj\Debug\net7.0\Aula01Variaveis.AssemblyInfo.cs
+D:\MarceloFreschi\DS\A01\Aula01Variaveis\obj\Debug\net7.0\Aula01Variaveis.csproj.CoreCompileInputs.cache
+D:\MarceloFreschi\DS\A01\Aula01Variaveis\obj\Debug\net7.0\Aula01Variaveis.dll
+D:\MarceloFreschi\DS\A01\Aula01Variaveis\obj\Debug\net7.0\refint\Aula01Variaveis.dll
+D:\MarceloFreschi\DS\A01\Aula01Variaveis\obj\Debug\net7.0\Aula01Variaveis.pdb
+D:\MarceloFreschi\DS\A01\Aula01Variaveis\obj\Debug\net7.0\Aula01Variaveis.genruntimeconfig.cache
+D:\MarceloFreschi\DS\A01\Aula01Variaveis\obj\Debug\net7.0\ref\Aula01Variaveis.dll
+C:\Users\marci\OneDrive\Área de Trabalho\Aula01Variaveis\obj\Debug\net7.0\Aula01Variaveis.csproj.AssemblyReference.cache
+C:\Users\marci\OneDrive\Área de Trabalho\Aula01Variaveis\obj\Debug\net7.0\Aula01Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marci\OneDrive\Área de Trabalho\Aula01Variaveis\obj\Debug\net7.0\Aula01Variaveis.AssemblyInfoInputs.cache
+C:\Users\marci\OneDrive\Área de Trabalho\Aula01Variaveis\obj\Debug\net7.0\Aula01Variaveis.AssemblyInfo.cs
+C:\Users\marci\OneDrive\Área de Trabalho\Aula01Variaveis\obj\Debug\net7.0\Aula01Variaveis.csproj.CoreCompileInputs.cache
+C:\Users\marci\OneDrive\Área de Trabalho\Aula01Variaveis\obj\Debug\net7.0\Aula01Variaveis.dll
+C:\Users\marci\OneDrive\Área de Trabalho\Aula01Variaveis\obj\Debug\net7.0\refint\Aula01Variaveis.dll
+C:\Users\marci\OneDrive\Área de Trabalho\Aula01Variaveis\obj\Debug\net7.0\Aula01Variaveis.pdb
+C:\Users\marci\OneDrive\Área de Trabalho\Aula01Variaveis\bin\Debug\net7.0\Aula01Variaveis.exe
+C:\Users\marci\OneDrive\Área de Trabalho\Aula01Variaveis\bin\Debug\net7.0\Aula01Variaveis.deps.json
+C:\Users\marci\OneDrive\Área de Trabalho\Aula01Variaveis\bin\Debug\net7.0\Aula01Variaveis.runtimeconfig.json
+C:\Users\marci\OneDrive\Área de Trabalho\Aula01Variaveis\bin\Debug\net7.0\Aula01Variaveis.dll
+C:\Users\marci\OneDrive\Área de Trabalho\Aula01Variaveis\bin\Debug\net7.0\Aula01Variaveis.pdb
+C:\Users\marci\OneDrive\Área de Trabalho\Aula01Variaveis\obj\Debug\net7.0\Aula01Variaveis.genruntimeconfig.cache
+C:\Users\marci\OneDrive\Área de Trabalho\Aula01Variaveis\obj\Debug\net7.0\ref\Aula01Variaveis.dll
+D:\Geral\ETEC\2DS\DS\Aula01VariaveisCOMMEDIA\obj\Debug\net7.0\Aula01Variaveis.csproj.AssemblyReference.cache
+D:\Geral\ETEC\2DS\DS\Aula01VariaveisCOMMEDIA\obj\Debug\net7.0\Aula01Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geral\ETEC\2DS\DS\Aula01VariaveisCOMMEDIA\obj\Debug\net7.0\Aula01Variaveis.AssemblyInfoInputs.cache
+D:\Geral\ETEC\2DS\DS\Aula01VariaveisCOMMEDIA\obj\Debug\net7.0\Aula01Variaveis.AssemblyInfo.cs
+D:\Geral\ETEC\2DS\DS\Aula01VariaveisCOMMEDIA\obj\Debug\net7.0\Aula01Variaveis.csproj.CoreCompileInputs.cache
+D:\Geral\ETEC\2DS\DS\Aula01VariaveisCOMMEDIA\obj\Debug\net7.0\Aula01Variaveis.dll
+D:\Geral\ETEC\2DS\DS\Aula01VariaveisCOMMEDIA\obj\Debug\net7.0\refint\Aula01Variaveis.dll
+D:\Geral\ETEC\2DS\DS\Aula01VariaveisCOMMEDIA\obj\Debug\net7.0\Aula01Variaveis.pdb
+D:\Geral\ETEC\2DS\DS\Aula01VariaveisCOMMEDIA\bin\Debug\net7.0\Aula01Variaveis.exe
+D:\Geral\ETEC\2DS\DS\Aula01VariaveisCOMMEDIA\bin\Debug\net7.0\Aula01Variaveis.deps.json
+D:\Geral\ETEC\2DS\DS\Aula01VariaveisCOMMEDIA\bin\Debug\net7.0\Aula01Variaveis.runtimeconfig.json
+D:\Geral\ETEC\2DS\DS\Aula01VariaveisCOMMEDIA\bin\Debug\net7.0\Aula01Variaveis.dll
+D:\Geral\ETEC\2DS\DS\Aula01VariaveisCOMMEDIA\bin\Debug\net7.0\Aula01Variaveis.pdb
+D:\Geral\ETEC\2DS\DS\Aula01VariaveisCOMMEDIA\obj\Debug\net7.0\Aula01Variaveis.genruntimeconfig.cache
+D:\Geral\ETEC\2DS\DS\Aula01VariaveisCOMMEDIA\obj\Debug\net7.0\ref\Aula01Variaveis.dll
